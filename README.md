@@ -1,13 +1,13 @@
-## Hi 👋, I'm Josep Martínez
+### Hi 👋, I'm Josep Martínez
 A Computer Science Engineering student at Universitat Politècnica de Catalunya (UPC).
+
 Specialized in Information Technology 🌐
-
-
-<a href="https://linkedin.com/in/josep-martinez-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josep-martinez-garcia" height="30" width="40" /></a>
-</p>
 
 ![masep01's Stats](https://github-readme-stats.vercel.app/api?username=masep01&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ![masep01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=masep01&theme=tokyonight&hide_border=false)
 
 ![masep01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masep01&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+<a href="https://linkedin.com/in/josep-martinez-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josep-martinez-garcia" height="30" width="40" /></a>
+</p>
