@@ -13,7 +13,7 @@ Specialized in Information Technology 🌐
 -->
 
 Check out some personal projects and some university courses:
-- [AlmerApp](https://github.com/masep01/FIB)
+- [AlmerApp](https://github.com/masep01/AlmerApp)
 - [FIB](https://github.com/masep01/FIB)
 - [ZeOS](https://github.com/masep01/SOA-FIB)
   
