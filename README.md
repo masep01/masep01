@@ -21,3 +21,4 @@ Check out some personal projects and some university courses:
 Zapper is a full-stack application powered by Kubernetes, developed for PTI course at @FIB(UPC).
 - [Cluster](https://github.com/masep01/zapper-cluster)
 - [Backend](https://github.com/masep01/zapper-backend)
+- [Mobile app](https://github.com/masep01/zapper-app)
